@@ -1,4 +1,4 @@
 # TekTransformersAutomation
 
-02/23/23
-Ready And Configured to run Scenarion User Able to Edit Address. 
+02/23/23 Commit
+Ready And Configured to run Scenario: User Able to Edit Address. 
